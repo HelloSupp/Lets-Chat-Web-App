@@ -1,0 +1,14 @@
+#h4_tag {
+    text-align: center;
+    color: blue;
+}
+
+body {
+    background-image: url(chatting_image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#div {
+    background: rgba(29, 212, 69, 0.8);float: none;border-radius: 15px;
+}
